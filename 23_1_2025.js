@@ -10,4 +10,4 @@ console.log(str.includes("javascript"))
 str = "anat javascript"
 console.log(str.replace(/[aeiouAEIOU]/g,''))
 
-//hello
+//hello i am fine 
