@@ -1,3 +1,4 @@
+// Odd or Even
 var n = 10
 if( n % 2 == 0){
     console.log("even")
@@ -6,7 +7,7 @@ if( n % 2 == 0){
 }
 
 
-
+// Postive or Negative
 var n = 0
 if( n > 0){
     console.log("postive")
@@ -25,7 +26,7 @@ for(let i = 0;i<=n;i++){
     }
 }
 
-
+// Seasons based on month
 month = 5;    
 switch(month) {
       case 12:
